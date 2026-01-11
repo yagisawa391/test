@@ -1,0 +1,8 @@
+{
+  "name": "Lumina Luxe - AI-Driven E-Commerce",
+  "description": "A cutting-edge luxury e-commerce platform featuring an AI Stylist, immersive visuals, and real-time customer support using Gemini API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
